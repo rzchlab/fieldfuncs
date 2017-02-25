@@ -1,2 +1,2 @@
-from .fieldfuncs import finite_slab
+from . import finite_slab
 
