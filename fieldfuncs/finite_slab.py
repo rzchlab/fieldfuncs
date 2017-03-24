@@ -1,3 +1,5 @@
+import numpy as np
+
 def By_surface(x, w, d, j):
     """Magnetic field directed perpendicular to the
     surface of a conducting slab at the slabs surface,
