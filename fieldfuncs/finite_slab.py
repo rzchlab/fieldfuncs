@@ -1,4 +1,7 @@
 import numpy as np
+from scipy.integrate import simps
+
+twopi = np.pi * 2
 
 def By_surface(x, w, d, j):
     """Magnetic field directed perpendicular to the
